@@ -1,4 +1,4 @@
-@frida/base64-js
+@ainakan/base64-js
 ================
 
-Frida-optimized ESM fork of https://github.com/beatgammit/base64-js.
+Ainakan-optimized ESM fork of https://github.com/beatgammit/base64-js.
